@@ -1,4 +1,4 @@
-# Descomposicion_delETF_IVV
+# Descomposicion_del_ETF_IVV
 Este repositorio contiene un proyecto de analítica financiera diseñado para descomponer el rendimiento y riesgo del ETF IVV)
 
 El proyecto combina modelado estadisticio avanzado en Python con el despliegue de una herramienta interactiva en Power BI. El flujo del proyecto se divide en tres etapas criticas:
@@ -17,4 +17,3 @@ Tecnologías Utlizadas.
 Estructura del repositorio
 1. /data: contiene los archivos .csv procesados y listos para su uso en inteligencia de negocios.
 2. /notebooks: Jupyter Notebook con el script documentaod paso a paso, desde la descarga de datos hasta las pruebas estadisticas de la regresión.
-3. /dashboard: Archivo .pbix de Power BI listo para visualizacion e interacción.
